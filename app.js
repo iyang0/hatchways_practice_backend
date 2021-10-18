@@ -1,5 +1,9 @@
+"use strict"
+
 const express = require("express");
 const app = express();
-// const stats = require()
+
+//common errors
+const { NotFoundError, BadRequestError } = require("./expressError");
 
 module.exports = app;
