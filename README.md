@@ -1,3 +1,7 @@
+from hatchways site: https://hatchways.notion.site/hatchways/Back-End-Practice-Assessment-0a110db665384575a94d93faab787f0e
+
+---
+
 The goal of this practice assessment is to test your backend development skills. The objective is to write a simple JSON API. 
 
 This practice assessment will **not** be graded, however the official assessment will be graded based on the following criteria (so it is good practice to keep these categories in mind while completing this practice assessment):
