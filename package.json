@@ -1,0 +1,13 @@
+{
+  "name": "hatchways_practice_backend",
+  "version": "1.0.0",
+  "description": "from hatchways site: https://hatchways.notion.site/hatchways/Back-End-Practice-Assessment-0a110db665384575a94d93faab787f0e",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
